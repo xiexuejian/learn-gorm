@@ -10,3 +10,6 @@
 本仓库根据官方教程，写出的案例
 <br/> 
 官方文档：https://gorm.io/zh_CN/docs/index.html 
+
+# 数据库SQL脚本
+在文件夹名称为sql下
